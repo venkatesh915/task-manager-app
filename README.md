@@ -44,11 +44,6 @@ To build a scalable task management system that helps users organize their daily
 
 ---
 
-## 📸 Screenshots (Optional)
-_Add project screenshots here_
-
----
-
 ## 📌 Future Enhancements
 - User authentication (Login/Signup)  
 - Task categories and filters  
