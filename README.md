@@ -1,126 +1,64 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Task Manager App - Slide</title>
+# 📌 Task Manager App
 
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #0f172a;
-      color: #ffffff;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
+A full-stack web application designed to efficiently manage daily tasks and improve productivity through a simple and intuitive interface.
 
-    .slide {
-      width: 900px;
-      background: #111827;
-      padding: 40px;
-      border-radius: 16px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-    }
+---
 
-    h1 {
-      font-size: 32px;
-      color: #38bdf8;
-      margin-bottom: 10px;
-    }
+## 🚀 Features
+- Add, update, and delete tasks easily  
+- Mark tasks as Completed or Pending  
+- Real-time task status updates  
+- Clean and responsive user interface  
+- Secure REST API integration between frontend and backend  
+- Optimized performance across devices  
 
-    h2 {
-      font-size: 18px;
-      color: #94a3b8;
-      margin-bottom: 25px;
-    }
+---
 
-    .section {
-      margin-bottom: 20px;
-    }
+## 🛠 Tech Stack
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **API:** RESTful Services  
+- **Deployment:** Vercel (Frontend), Render (Backend)  
+- **Version Control:** Git & GitHub  
 
-    .section h3 {
-      color: #facc15;
-      margin-bottom: 10px;
-      font-size: 18px;
-    }
+---
 
-    ul {
-      margin: 0;
-      padding-left: 20px;
-      line-height: 1.6;
-    }
+## 🎯 Project Objective
+To build a scalable task management system that helps users organize their daily activities, track progress, and improve productivity using a simple digital solution.
 
-    .links a {
-      color: #22c55e;
-      text-decoration: none;
-    }
+---
 
-    .links a:hover {
-      text-decoration: underline;
-    }
+## 🔗 Project Links
+- **GitHub Repository:** https://github.com/venkatesh915/task-manager-app  
+- **Live Demo:** https://task-manager-app-xkq8.vercel.app/  
 
-    .footer {
-      margin-top: 20px;
-      font-size: 14px;
-      color: #94a3b8;
-    }
-  </style>
-</head>
+---
 
-<body>
+## 💡 Key Highlights
+- Full-stack CRUD application  
+- REST API integration with frontend  
+- MongoDB database management  
+- Responsive UI/UX design  
+- Deployed on cloud platforms  
 
-  <div class="slide">
+---
 
-    <h1>📌 Task Manager App</h1>
-    <h2>A full-stack productivity application for efficient task management and workflow organization</h2>
+## 📸 Screenshots (Optional)
+_Add project screenshots here_
 
-    <div class="section">
-      <h3>🚀 Key Features</h3>
-      <ul>
-        <li>Create, update, and delete tasks easily</li>
-        <li>Track status: Pending / In Progress / Completed</li>
-        <li>Real-time UI updates with smooth experience</li>
-        <li>Responsive design for all devices</li>
-        <li>Secure REST API integration</li>
-        <li>Optimized and fast performance</li>
-      </ul>
-    </div>
+---
 
-    <div class="section">
-      <h3>🛠 Tech Stack</h3>
-      <ul>
-        <li>Frontend: React.js, HTML, CSS, JavaScript</li>
-        <li>Backend: Node.js, Express.js</li>
-        <li>Database: MongoDB</li>
-        <li>Deployment: Vercel & Render</li>
-        <li>Version Control: Git & GitHub</li>
-      </ul>
-    </div>
+## 📌 Future Enhancements
+- User authentication (Login/Signup)  
+- Task categories and filters  
+- Drag & drop task management  
+- Notifications and reminders  
 
-    <div class="section">
-      <h3>🎯 Objective</h3>
-      <p>
-        To build a scalable task management system that improves productivity
-        by helping users organize and track their daily tasks efficiently.
-      </p>
-    </div>
+---
 
-    <div class="section links">
-      <h3>🔗 Links</h3>
-      <p>
-        GitHub: <a href="https://github.com/venkatesh915/task-manager-app" target="_blank">Repository</a><br/>
-        Live Demo: <a href="https://task-manager-app-xkq8.vercel.app/" target="_blank">View Project</a>
-      </p>
-    </div>
+## 👨‍💻 Author
+- GitHub: https://github.com/venkatesh915  
+- Portfolio: https://mynewportfolio-rust.vercel.app/  
 
-    <div class="footer">
-      Built with 💻 Full Stack Development (MERN-style architecture)
-    </div>
-
-  </div>
-
-</body>
-</html>
+---
